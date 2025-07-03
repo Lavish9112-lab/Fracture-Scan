@@ -26,15 +26,9 @@ FractureDetect is an AI-powered web app that detects bone fractures from X-ray i
 
 ## 🗃️ Dataset
 
-- MURA Dataset by Stanford (X-rays of limbs with fracture/abnormal labels)
-- Or fracture-labeled datasets from Roboflow (YOLO-ready)
-- Format: `.jpg/.png` X-ray images with `.xml` or `.txt` annotation files
+
 
 ---
 
 ## 📦 Installation
 
-```bash
-git clone https://github.com/yourusername/fracture-detection-xray-tf.git
-cd fracture-detection-xray-tf
-pip install -r requirements.txt
